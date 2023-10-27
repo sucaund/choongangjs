@@ -73,3 +73,8 @@ function  all_func() {
         result.innerHTML=str1;
 }
 
+let count=0;
+while (count<10){
+    실행문;
+    count++;
+}
